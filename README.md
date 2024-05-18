@@ -33,7 +33,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/LucasKunter/LucasKunter/output/snake.svg" alt="Snake animation" />
 
 ###
 
