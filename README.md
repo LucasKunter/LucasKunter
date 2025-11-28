@@ -2,7 +2,7 @@
 
 ###
 
-<p align="center">Olá! Meu nome é Lucas Kunter, tenho 20 anos  e atualmente sou estudante de Análise e Desenvolvimento na FATEC Zona Leste!</p>
+<p align="center">Olá! Meu nome é Lucas Kunter, tenho 21 anos e sou analista de dados no Banco Bradesco.</p>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<p align="center">✨ Criando bugs desde 2004<br>📚 Atualmente estou aprendendo Java</p>
+<p align="center">✨ Criando bugs desde 2004<</p>
 
 ###
 
